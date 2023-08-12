@@ -6,3 +6,10 @@
 <a href="https://github.com/Web3Jharkhand/web3jh/network/members"><img src="https://img.shields.io/github/forks/Web3Jharkhand/web3jh" alt="Forks Badge"/></a>
 <a href="https://github.com/Web3Jharkhand/web3jh/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Web3Jharkhand/web3jh?color=2b9348"></a>
 </div>
+
+<br />
+
+<div>
+  Contributers!! head over to the dev branch and read CONTRIBUTE.md carefully. Thanks and see you contributing.
+</div>
+
