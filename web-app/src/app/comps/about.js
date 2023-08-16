@@ -1,33 +1,43 @@
 import {bgWrap} from '../globals.css'
 import Image from 'next/image'
-import jhImg from './../public/jh-culture.png'
+import jhImg from '@/app/public/jh-cultue.png'
 import jhBlock from '@/app/public/jharkhand-block.png'
 
 const About = () => {
     return(
-      <div>
-        <div className={bgWrap}>
-          <Image
-            alt="bg image"
-            src={jhImg}
-            layout="fill"
-            objectFit="cover"
-            quality={100}
-          />
-        </div>
-        <div className="relative flex xl:flex-row flex-col-reverse items-center justify-center h-[100vh]">
-        <div className="xl:flex  xl:basis-1/2 ">
-            <div className='xl:w-[50rem] pt-[12rem] text-center'><span className="xl:text-5xl font-bold text-black"><span className='text-red-600'>EMPOWERING</span> JHARKHAND THROUGH <span className='text-green-600'>WEB3.0</span> INNOVATION</span><br /><br />
-            <span className='xl:text-[1.7rem] text-black'>&#40; the Next Generation of Internet &#41;</span>
-          </div>
-          <div className="xl:flex  xl:basis-1/2 ">
-            <div className='w-[25rem] xl:w-[35rem]'><Image alt="Jh Block Image" src={jhBlock} />
-          </div>
-          
+      <div className='about-bg'> 
 
+      <div className='p-[6rem]'>
+        
+        <div className='xl:w-[50rem]  xl:pb-[3rem]'><span className="xl:text-6xl font-bold text-black/60">Who Are We?</span><br /><br />
+            
           </div>
-        </div>
-        </div>
+          <div className='xl:text-[1.7rem] text-black'>
+            <p>
+            Web3JH, initial for Web3 Jharkhand, is a vibrant community dedicated to  fostering the growth and adoption of decentralized technologies in the state of Jharkhand. By providing a platform for individuals in Jharkhand to connect and uplift each other, we aspire to create  an inclusive and   supportive environment  where ideas   flourish  and innovations thrive.
+                
+            </p>
+            
+            <br />
+
+            <p>
+            Our  mission is to  establish a robust Web3  ecosystem in Jharkhand,  where 
+individuals can come together to share knowledge, collaborate on projects, and 
+unlock the  transformative   potential  of decentralized   technologies. Through 
+education, networking opportunities, and community-driven initiatives, we aim to 
+build, grow, and scale the Web3 landscape in Jharkhand.
+
+
+            </p>
+                
+                </div>
+
+
+
+      </div>
+        
+            
+         
         
 
 

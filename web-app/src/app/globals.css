@@ -31,3 +31,21 @@ body {
   overflow: hidden;
   z-index: -1;
   }
+
+  .about-bg {
+    background-image: url('./public/jh-cultue.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: 20%;
+    background-position-x: 25%;
+
+  }
+
+  .events-bg {
+    background-image: url('./public/jh-cultue.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: 30%;
+    background-position-x: 10%;
+
+  }
