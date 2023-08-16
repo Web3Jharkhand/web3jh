@@ -1,15 +1,15 @@
 import {bgWrap} from '../globals.css'
 import Image from 'next/image'
-import heroImg from '@/app/public/hero_bg.png'
+import jhImg from './../public/jh-culture.png'
 import jhBlock from '@/app/public/jharkhand-block.png'
 
-const Hero = () => {
+const About = () => {
     return(
       <div>
         <div className={bgWrap}>
           <Image
             alt="bg image"
-            src={heroImg}
+            src={jhImg}
             layout="fill"
             objectFit="cover"
             quality={100}
@@ -39,4 +39,4 @@ const Hero = () => {
     )
 }
 
-export default Hero;
+export default About;
