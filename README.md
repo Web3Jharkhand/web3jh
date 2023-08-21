@@ -9,6 +9,8 @@
 
 <br />
 
+### How to Contribute?
+
 <div>
   Contributers!! head over to the dev branch and read CONTRIBUTE.md carefully. Thanks and see you contributing.
 </div>
