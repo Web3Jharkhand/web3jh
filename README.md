@@ -11,6 +11,8 @@
 
 ### How to Contribute?
 
+Steps to follow:
+
 <div>
   Contributers!! head over to the dev branch and read CONTRIBUTE.md carefully. Thanks and see you contributing.
 </div>
