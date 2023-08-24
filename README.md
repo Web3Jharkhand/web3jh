@@ -14,7 +14,9 @@
 Steps to follow:
 
 <div>
+<li>
   <ul> Go to the dev branch. </ul>
   <ul> Read CONTRIBUTE.md carefully. </ul>
+</li>
 </div>
 
