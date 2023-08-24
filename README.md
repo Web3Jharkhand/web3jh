@@ -12,9 +12,7 @@
 ### How to Contribute?
 
 Steps to follow:
-
-<div>
- <li> Go to the dev branch.</li>
- <li> Read CONTRIBUTE.md carefully. </li> 
+- Go to the dev branch.
+- Read CONTRIBUTE.md carefully.
 </div>
 
