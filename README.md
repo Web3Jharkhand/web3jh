@@ -13,6 +13,7 @@
 
 Steps to follow:
 - Go to the dev branch.
-- Read `CONTRIBUTE.md` carefully.
+- Read `CONTRIBUTE.md` carefully
+- Kindly connect with us for more queries or details
 
 
