@@ -11,7 +11,7 @@ const AboutUs = () => {
                     <p className='para-about2'>providing a platform for individuals in Jharkhand to connect and uplift each other, we aspire to  create  an  inclusive and   supportive  environment  where  ideas   flourish  and innovations  thrive.</p>
                 </div>
                 <div className="img-about-div">
-                    <img src="/Web3 JharkhandHomePage.png" alt="" height="481px" width="688px" className='img-about' />
+                    <img src="Web3 JharkhandHomePage.png" alt="" height="481px" width="688px" className='img-about' />
                 </div>
             </div>
             <div className="whole-about-content-down" >
