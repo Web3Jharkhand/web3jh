@@ -1,0 +1,60 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-quicksand: Quicksand;
+  --font-poppins: Poppins;
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --font-size-sm: 0.88rem;
+  --font-size-9xl: 1.75rem;
+  --font-size-13xl: 2rem;
+  --font-size-16xl: 2.19rem;
+  --font-size-53xl: 4.5rem;
+  --font-size-mid-4: 1.09rem;
+  --font-size-lg-8: 1.18rem;
+  --font-size-6xl: 1.56rem;
+  --font-size-38xl: 3.56rem;
+  --font-size-xl: 1.25rem;
+  --font-size-10xl: 1.81rem;
+  --font-size-37xl: 3.5rem;
+  --font-size-31xl: 3.13rem;
+  --font-size-41xl: 3.75rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray-100: #272e2b;
+  --color-black: #000;
+  --color-sandybrown: #ffc06e;
+  --color-gray-100: #787878;
+  --color-lightcyan: #d1efe5;
+  --color-deeppink: #e31b74;
+
+  /* border radiuses */
+  --br-14xl-3: 33.3px;
+  --br-25xl-9: 44.9px;
+}
+
