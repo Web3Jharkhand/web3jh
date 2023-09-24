@@ -12,13 +12,18 @@
 ### How to Contribute?
 
 Steps to follow:
-- Go to the official GitHub Repo of Web3 Jharkhand: https://github.com/Web3Jharkhand/web3jh
-- 
-- Go to the link: https://github.com/Web3Jharkhand/web3jh/issues/new and check if there's already an existing issue which no one is currently working on. If "YES" then pick one which you can solve, assign it to yourself and start working.
-- If there is no issue currently, then you can raise an "issue" by your side for the particular thing which you have decided to do like maybe some bug fixes or UI improvements or new features etc.
-- Kindly make sure to give an appropriate "Title" and adequate description of what you will be working. For e.g. Title - Creating a new section for blogs
-- Once you have given the appropriate Title & Description, make sure to assign the "issue" to yourself from right-hand side panel and submit it.
-- After this your issue will be reviewed by the team and once approved then you can start working on it.
+
+1. **Research & Planning**
+- Before you start working on the project, first visit our website at *https://web3jharkhand.github.io/web3jh/*
+- Go through the website thoroughly 10-20 times and find out that particular section that you think might require some improvement or bug fixes.
+- Verify if someone is already working on that by going through the issues currently opened at *https://github.com/Web3Jharkhand/web3jh/issues*
+
+2. **Assignment**
+- If there's already an "issue" opened for that particular task, then assign it to yourself to start working on it.
+- If there is no "issue" currently raised for that task, then go to *https://github.com/Web3Jharkhand/web3jh/issues/new* and create one with appropriate "TITLE" & appropriate description explaining what you will be fixing or building any new.
+
+3. **Code Setup**
+- Star ⭐
 - Clone this repository in your local system using the command `git clone https://github.com/Web3Jharkhand/web3jh.git` OR download it as a zip file.
 - Once you have successfully downloaded it into your local system then, star
 - Kindly connect with us for more queries or details
