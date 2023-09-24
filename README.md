@@ -1,4 +1,4 @@
-# Web3Jharkhand Official Website 🚀
+<h1> Web3Jharkhand Official Website 🚀 </h1>
 
 <div align="left">
 <a href="https://github.com/Web3Jharkhand/web3jh/"><img src="https://sloc.xyz/github/Web3Jharkhand/web3jh" alt="LOC"/></a>
@@ -7,9 +7,8 @@
 <a href="https://github.com/Web3Jharkhand/web3jh/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Web3Jharkhand/web3jh?color=2b9348"></a>
 </div>
 
-<br />
 
-### How to Contribute?
+<h3> 👉 How to Contribute </h3>
 
 Steps to follow:
 
@@ -39,6 +38,7 @@ Steps to follow:
 - Once you have successfully downloaded it into your local system, open your preferred code editor terminal and run `npm install`
 - To run it locally on your system for testing, make sure to first edit the 1st line of code of the file "package.json" to `"homepage": "."` and then run `npm start`
 
+<br>
 
 <h3> 👉 TECH STACK </h3>
 
@@ -59,9 +59,10 @@ Steps to follow:
 <img align="left" width="85px" src="https://img.shields.io/badge/-Figma-1572B6?logo=figma&Color=white&style=plastic" />
 <img align="left" width="180px" src="https://img.shields.io/badge/-Visual Studio Code-1572B6?logo=visualstudiocode&Color=white&style=plastic" />
 </div>
+
 <br><br>
 
-<h3> 👉 Glimpse of the Webpage </h3>
+<h3> 👉 GLIMPSE OF WEBSITE </h3>
 
 ![](https://github.com/)
 
