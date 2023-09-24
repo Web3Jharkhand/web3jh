@@ -16,4 +16,36 @@ Steps to follow:
 - Read `CONTRIBUTE.md` carefully
 - Kindly connect with us for more queries or details
 
+<h3> 👉 TECH STACK </h3>
+
+<h3> Languages: </h3>
+
+<div>
+<img align="left" width="95px" src="https://img.shields.io/badge/-HTML5-13324B?logo=html5&Color=white&style=plastic" />
+<img align="left" width="70px" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&Color=white&style=plastic" />
+</div>
+
+<br>
+<h3> Tools: </h3>
+
+<div>
+<img align="left" width="85px" src="https://img.shields.io/badge/-Figma-1572B6?logo=figma&Color=white&style=plastic" />
+<img align="left" width="160px" src="https://img.shields.io/badge/-Adobe Photoshop-1572B6?logo=AdobePhotoshop&Color=white&style=plastic" />
+</div>
+<br><br>
+
+<h3> 👉 Glimpse of the Webpage </h3>
+
+![](https://github.com/Devs-Dungeon/bio/blob/main/Assets/bio.PNG)
+
+
+<h1 align=center> ⭐ OUR VALUABLE CONTRIBUTORS ⭐ </h1>
+
+<p align="center">
+	<a href="https://github.com/Devs-Dungeon/bio/graphs/contributors">
+		<img src="https://contrib.rocks/image?repo=Devs-Dungeon/bio" />
+	</a>
+</p>
+
+<h2> 🔗 Connect with Us </h2>
 
