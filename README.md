@@ -23,7 +23,8 @@ Steps to follow:
 - If there is no "issue" currently raised for that task, then go to *https://github.com/Web3Jharkhand/web3jh/issues/new* and create one with appropriate "TITLE" & appropriate description explaining what you will be fixing or building any new.
 
 3. **Code Setup**
-- Star ⭐
+- Star ⭐ the repo by clicking on the *"Starred"* button on the top right side of the screen.
+- *"Fork"* the repo into your own local 
 - Clone this repository in your local system using the command `git clone https://github.com/Web3Jharkhand/web3jh.git` OR download it as a zip file.
 - Once you have successfully downloaded it into your local system then, star
 - Kindly connect with us for more queries or details
