@@ -42,8 +42,8 @@ Steps to follow:
 <h1 align=center> ⭐ OUR VALUABLE CONTRIBUTORS ⭐ </h1>
 
 <p align="center">
-	<a href="https://github.com/Devs-Dungeon/bio/graphs/contributors">
-		<img src="https://contrib.rocks/image?repo=Devs-Dungeon/bio" />
+	<a href="https://github.com/Web3Jharkhand/web3jh/graphs/contributors">
+		<img src="https://contrib.rocks/image?repo=Web3Jharkhand/web3jh" />
 	</a>
 </p>
 
