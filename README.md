@@ -24,8 +24,8 @@ Steps to follow:
 
 3. **Code Setup**
 - Star ⭐ the repo by clicking on the *"Starred"* button on the top right side of the screen.
-- *"Fork"* the repo into your own local 
-- Clone this repository in your local system using the command `git clone https://github.com/Web3Jharkhand/web3jh.git` OR download it as a zip file.
+- *"Fork"* this repo into your own GitHub account allowing you to work on a copy of it, thus allowing you to freely experiment with changes without affecting the original project.
+- Clone this repository in your local system using the command `git clone` OR download it as a zip file.
 - Once you have successfully downloaded it into your local system then, star
 - Kindly connect with us for more queries or details
 
