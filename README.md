@@ -64,7 +64,9 @@ Steps to follow:
 
 <h3> 👉 GLIMPSE OF WEBSITE </h3>
 
-![](https://github.com/)
+![](https://github.com/Web3Jharkhand/web3jh/blob/main/web3jh-react/public/web3jh-homepage.png)
+![](https://github.com/Web3Jharkhand/web3jh/blob/main/web3jh-react/public/web3jh-aboutus.png)
+![](https://github.com/Web3Jharkhand/web3jh/blob/main/web3jh-react/public/web3jh-events.png)
 
 
 <h1 align=center> ⭐ OUR VALUABLE CONTRIBUTORS ⭐ </h1>
@@ -77,3 +79,7 @@ Steps to follow:
 
 <h2> 🔗 Connect with Us </h2>
 
+[<img alt="Web3 Jharkhand | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:web3jh@gmail.com)
+[<img alt="Web3 Jharkhand | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/company/web3jh/)
+[<img alt="Web3 Jharkhand | Instagram" width="100px" src="https://img.shields.io/badge/-Instagram-000000?logo=instagram&Color=0A66C2&style=flat-square" />](https://www.instagram.com/web3jh/)
+[<img alt="Web3 Jharkhand | Twitter" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/web3jh)
