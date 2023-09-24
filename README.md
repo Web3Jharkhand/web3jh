@@ -12,8 +12,15 @@
 ### How to Contribute?
 
 Steps to follow:
-- Go to the dev branch.
-- Read `CONTRIBUTE.md` carefully
+- Go to the official GitHub Repo of Web3 Jharkhand: https://github.com/Web3Jharkhand/web3jh
+- 
+- Go to the link: https://github.com/Web3Jharkhand/web3jh/issues/new and check if there's already an existing issue which no one is currently working on. If "YES" then pick one which you can solve, assign it to yourself and start working.
+- If there is no issue currently, then you can raise an "issue" by your side for the particular thing which you have decided to do like maybe some bug fixes or UI improvements or new features etc.
+- Kindly make sure to give an appropriate "Title" and adequate description of what you will be working. For e.g. Title - Creating a new section for blogs
+- Once you have given the appropriate Title & Description, make sure to assign the "issue" to yourself from right-hand side panel and submit it.
+- After this your issue will be reviewed by the team and once approved then you can start working on it.
+- Clone this repository in your local system using the command `git clone https://github.com/Web3Jharkhand/web3jh.git` OR download it as a zip file.
+- Once you have successfully downloaded it into your local system then, star
 - Kindly connect with us for more queries or details
 
 <h3> 👉 TECH STACK </h3>
