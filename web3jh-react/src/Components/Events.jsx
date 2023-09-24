@@ -5,7 +5,7 @@ import PastEvents from './PastEvents'
 const Events = () => {
   return (
     <div>
-        <div className="events-page" style={{marginTop:"15rem"}}>
+        <div className="events-page" style={{marginTop:"10rem"}}>
         <p className='head-events'>EVENTS</p>
         <UpcomingEvents />
         <PastEvents />

@@ -1,4 +1,6 @@
 import React from 'react'
+import { Slide } from 'react-slideshow-image';
+import 'react-slideshow-image/dist/styles.css';
 import './HomePage.css'
 import OurPartners from './OurPartners'
 import AboutUs from './AboutUs'
@@ -17,9 +19,9 @@ const HomePage = () => {
         <AboutUs />
         <Events />
         <div className="patterns" style={{display:"flex"}}>
-            <img src="pattern 1.png" alt="" style={{width:"100%"}} />
-            <img src="pattern 2.png" alt="" style={{width:"100%"}} />
-            <img src="pattern 2.png" alt="" style={{width:"100%"}} />
+            <img src="pattern 1.png" alt="" className='pattern' style={{width:"100%"}} />
+            <img src="pattern 2.png" alt="" className='pattern' style={{width:"100%"}} />
+            <img src="pattern 2.png" alt="" className='pattern' style={{width:"100%"}} />
         </div>
         <OurTeam />
         <OurPartners />

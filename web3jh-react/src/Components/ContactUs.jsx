@@ -15,10 +15,9 @@ const ContactUs = () => {
         <div className="right-ContactUs">
             <p className='head-socials'>Socials</p>
             <div className="socials-icons-ContactUs">
-             
-                <a href="https://www.instagram.com/web3jh/" target='_blank'><img src="instagram 1.png" alt="" /></a>
-                <a href="https://www.linkedin.com/company/web3jh/" target='_blank'><img src="image 8.png" alt="" /></a>
-                <a href="https://twitter.com/web3jh" target='_blank'><img src="twitter 5 (1).png" alt="" /></a>
+                <a href="https://www.linkedin.com/company/web3jh/" target='_blank'><img src="image 8.png" alt="LinkedIn" /></a>
+                <a href="https://twitter.com/web3jh" target='_blank'><img src="twitter 5 (1).png" alt="Twitter" /></a>
+                <a href="https://www.instagram.com/web3jh/" target='_blank'><img src="instagram 1.png" alt="Instagram" /></a>
             </div>
             
         </div>

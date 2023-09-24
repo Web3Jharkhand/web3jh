@@ -8,12 +8,12 @@ const OurTeam = () => {
             <div className="all-members">
                 <div className="all-mem-up">
                 <div className="each-members">
-                    <div className='each-mem-div-img'>
-                    <img src="Subham_Surana_profile.jpg" alt="" className='each-mem-img' />
+                    <div className='each-mem-up-div-img'>
+                    <img src="Subham_Surana_profile.jpg" alt="" className='each-mem-up-img' />
                     </div>
-                    <div className="each-mem-content">
-                        <p className='mem-name'>Subham Surana</p>
-                        <p className="mem-designation">Founder/Lead Organizer</p>
+                    <div className="each-mem-up-content">
+                        <p className='mem-up-name'>Subham Surana</p>
+                        <p className="mem-up-designation">Founder/Lead Organizer</p>
                         <div className="each-mem-social">
                             <a href="https://www.linkedin.com/in/subham-surana"><img src="image 4.png" alt="" /></a>
                             <a href="https://twitter.com/thesuranaverse"><img src="twitter 1.png" alt="" /></a>
@@ -23,12 +23,12 @@ const OurTeam = () => {
                 </div>
 
                 <div className="each-members">
-                    <div className='each-mem-div-img'>
-                    <img src="IMG_1122-abhisheksagar.jpeg" alt="team" className='each-mem-img' />
+                    <div className='each-mem-up-div-img'>
+                    <img src="IMG_1122-abhisheksagar.jpeg" alt="team" className='each-mem-up-img' />
                     </div>
-                    <div className="each-mem-content">
-                        <p className='mem-name'>Abhishek Sagar</p>
-                        <p className="mem-designation">Partner/Sponsor</p>
+                    <div className="each-mem-up-content">
+                        <p className='mem-up-name'>Abhishek Sagar</p>
+                        <p className="mem-up-designation">Partner/Sponsor</p>
                         <div className="each-mem-social">
                             <a href="https://www.linkedin.com/in/asssagar"><img src="image 4.png" alt="" /></a>
                             <a href="https://twitter.com/NeustarZura"><img src="twitter 1.png" alt="" /></a>
@@ -38,12 +38,12 @@ const OurTeam = () => {
                 </div>
 
                 <div className="each-members">
-                    <div className='each-mem-div-img'>
-                    <img src="IMG_20230807_075733 - Abhijeet Sinha.jpg" alt="" className='each-mem-img' />
+                    <div className='each-mem-up-div-img'>
+                    <img src="IMG_20230807_075733 - Abhijeet Sinha.jpg" alt="" className='each-mem-up-img' />
                     </div>
-                    <div className="each-mem-content">
-                        <p className='mem-name'>Abhijeet Sinha </p>
-                        <p className="mem-designation">Blockchain Contributor</p>
+                    <div className="each-mem-up-content">
+                        <p className='mem-up-name'>Abhijeet Sinha </p>
+                        <p className="mem-up-designation">Blockchain Contributor</p>
                         <div className="each-mem-social">
                             <a href="https://www.linkedin.com/in/abhijeet-sinha-0375b2135"><img src="image 4.png" alt="" /></a>
                             <a href="https://twitter.com/0x_Abhijeet"><img src="twitter 1.png" alt="" /></a>
@@ -58,9 +58,9 @@ const OurTeam = () => {
                     <img src="IMG-20230621-WA0036 - Ayush Singh.jpg" alt="" className='each-mem-img' height="242.195px" width="242.195px" />
                     </div>
                     <div className="each-mem-content">
-                        <p className='mem-name'>Ayush Singh Rajputr</p>
+                        <p className='mem-name'>Ayush Singh Rajput</p>
                         <p className="mem-designation">Chapter Lead</p>
-                        <p className="mem-designation" style={{paddingTop:"0.4rem"}}>BIT Mesra</p>
+                        <p className="mem-designation" style={{paddingTop:"0.4rem"}}><a href="https://www.bitmesra.ac.in/">BIT Mesra</a></p>
                         <div className="each-mem-social">
                             <a href="https://www.linkedin.com/in/ayush-singh-rajput-0700b8165"><img src="image 4.png" alt="" /></a>
                             <a href="https://twitter.com/infinityaccord"><img src="twitter 1.png" alt="" /></a>
@@ -76,7 +76,7 @@ const OurTeam = () => {
                     <div className="each-mem-content">
                         <p className='mem-name'>Shahnawaz Khan</p>
                         <p className="mem-designation">Chapter Lead</p>
-                        <p className="mem-designation" style={{paddingTop:"0.4rem"}}>IIIT Ranchi</p>
+                        <p className="mem-designation" style={{paddingTop:"0.4rem"}}><a href="https://iiitranchi.ac.in/">IIIT Ranchi</a></p>
                         <div className="each-mem-social">
                             <a href="https://www.linkedin.com/in/shahnawaz-khan-web3"><img src="image 4.png" alt="" /></a>
                             <a href="https://twitter.com/shahnaw47460437"><img src="twitter 1.png" alt="" /></a>
@@ -92,7 +92,7 @@ const OurTeam = () => {
                     <div className="each-mem-content">
                         <p className='mem-name'>Ankit Kumar </p>
                         <p className="mem-designation">Chapter Lead</p>
-                        <p className="mem-designation" style={{paddingTop:"0.4rem"}}>NIAMT Ranchi</p>
+                        <p className="mem-designation" style={{paddingTop:"0.4rem"}}><a href='https://niamt.ac.in/'>NIAMT Ranchi</a></p>
                         <div className="each-mem-social">
                             <a href="https://www.linkedin.com/in/ankit-kumar-988a90256"><img src="image 4.png" alt="" /></a>
                             <a href="https://twitter.com/Ankit1_5976"><img src="twitter 1.png" alt="" /></a>
@@ -108,7 +108,7 @@ const OurTeam = () => {
                     <div className="each-mem-content">
                         <p className='mem-name'>Kumar Rajeev </p>
                         <p className="mem-designation">Chapter Lead</p>
-                        <p className="mem-designation" style={{paddingTop:"0.4rem"}}>Arka Jain University</p>
+                        <p className="mem-designation" style={{paddingTop:"0.4rem"}}><a href='https://arkajainuniversity.ac.in/'>Arka Jain University</a></p>
                         <div className="each-mem-social">
                             <a href="https://www.linkedin.com/in/kumar-rajeev-li22"><img src="image 4.png" alt="" /></a>
                             <a href="https://twitter.com/Poison_X_"><img src="twitter 1.png" alt="" /></a>
@@ -124,7 +124,7 @@ const OurTeam = () => {
                     <div className="each-mem-content">
                         <p className='mem-name'>Riddhi Bhagat </p>
                         <p className="mem-designation">Chapter Lead</p>
-                        <p className="mem-designation" style={{paddingTop:"0.4rem"}}>SBU Ranchi</p>
+                        <p className="mem-designation" style={{paddingTop:"0.4rem"}}><a href='https://sbu.ac.in/'>SBU Ranchi</a></p>
                         <div className="each-mem-social">
                             <a href="https://www.linkedin.com/in/riddhi-bhagat-1a19201b3"><img src="image 4.png" alt="" /></a>
                             <a href="https://twitter.com/RiddhiBhagat957"><img src="twitter 1.png" alt="" /></a>
