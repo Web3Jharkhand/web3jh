@@ -1,5 +1,6 @@
 body {
   overflow-x: hidden; /* Hide horizontal scrollbar */
+  min-width: 960px;
 }
 
 .App {
