@@ -11,7 +11,7 @@ const HeroSection = () => {
             <p className='left-hero-p4'>(a decentralized ecosystem)</p>
             
             <div className='join-us-btn'>
-            <a href="https://chat.whatsapp.com/K5IjdkhJDA97wVlKo6MDIF" target='_blank' style={{textDecoration:"none"}}> <p>Join Us</p></a>
+            <a href="https://chat.whatsapp.com/Kv52H4iYt2XGrhtG0SWMOS" target='_blank' style={{textDecoration:"none"}}> <p>Join Us</p></a>
             </div>
         </div> 
         
